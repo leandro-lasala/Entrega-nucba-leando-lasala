@@ -1,0 +1,35 @@
+body{
+ font-family:"Silkscreen" , sans-serif;
+   text-align: center;
+   background-image: url("https://database.faithfulpack.net/images/addons/packpngMenuPanorama/header.png");
+      background-size: cover;
+      border-color: black;
+}
+
+h1{
+  text-align: center;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    position: absolute;
+    text-decoration: none;
+    color: antiquewhite;
+        top: 90%;
+    right: 45%;
+}
+
+.borde{
+    background-color: rgb(202, 202, 202);
+    box-shadow: inset 10px 10px 0px -5px rgba(255,255,255,1);
+    display:inline;
+    border: 1px solid #000;
+    
+    
+    
+}
+
